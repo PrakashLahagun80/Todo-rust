@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Rust basics",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Build a Rust CLI project",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Understand ownership and borrowing",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Practice error handling in Rust",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Learn about Serde for serialization",
+        "completed": true
+    }
+]
